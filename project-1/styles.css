@@ -1,0 +1,16 @@
+body {
+  box-sizing: border-box;
+  background-image: url('./img/background.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+/* .navbar{
+  background-image: linear-gradient(rgb(53, 52, 52) 10%, rgb(137, 137, 134) 90%);
+}  */
+
+.container{
+  position: relative;
+  top: 30% ;
+}
